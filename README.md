@@ -265,19 +265,15 @@ medical-appointment-no-show-analysis/
 │   └── README.md
 │
 ├── sql/
-│   ├── data_cleaning.sql
-│   └── exploratory_analysis.sql
+│   └── medical_appointment_analysis.sql
 │
 ├── powerbi/
-│   └── medical_appointment_no_show.pbix
-│
-├── screenshots/
-│   ├── dashboard-overview.png
-│   ├── no-show-analysis.png
-│   └── demographic-analysis.png
+│   └── medical appointment no-show report.pbix
 │
 └── documentation/
-    └── data-cleaning.md
+    ├── exploratory-analysis.pptx
+    └── dashboard_preview.png
+    
 ## Project Objectives
 
 Through this project, I aimed to develop practical experience in:
@@ -293,9 +289,10 @@ Identifying patterns in appointment attendance
 Data visualisation using Power BI
 Communicating analytical findings through an interactive dashboard
 
-## Dashboard
 
-Power BI Dashboard:
+ ## Power BI Dashboard
+
+![Power BI Dashboard](documentation/dashboard_preview.png)
 
 
 ⚠️ Disclaimer
